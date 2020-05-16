@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main",
+  "command": "/usr/bin/g++-7   -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/../Platform_EleBox -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -o CMakeFiles/Main.dir/main.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main/main.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main/main.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main",
+  "command": "/usr/bin/g++-7   -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/../Platform_EleBox -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -o CMakeFiles/Main.dir/MainForm.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main/MainForm.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_Main/MainForm.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/Modbus/BaseModbus.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/Modbus/BaseModbus.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/Modbus/BaseModbus.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/Modbus/ModbusMaster.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/Modbus/ModbusMaster.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/Modbus/ModbusMaster.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/ElectricityBox/EleBoxHAL.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxHAL.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxHAL.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/ElectricityBox/EleBoxSimulation.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxSimulation.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxSimulation.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/ElectricityBox/EleBoxV2.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxV2.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxV2.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/ElectricityBox/EleBoxV4.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxV4.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxV4.cpp"
+},
+{
+  "directory": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox",
+  "command": "/usr/bin/g++-7  -DBox_EXPORTS -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_Public -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/../Platform_EleBox -I/usr/local/include/modbus -I/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/INCLUDE    -fPIC -o CMakeFiles/Box.dir/ElectricityBox/EleBoxFactory.cpp.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxFactory.cpp",
+  "file": "/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/Platform_EleBox/ElectricityBox/EleBoxFactory.cpp"
+}
+]

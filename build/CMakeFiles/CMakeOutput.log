@@ -1,0 +1,87 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+5.0.0-23-generic - sh: 0: getcwd() failed: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d382c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d382c.dir/build.make CMakeFiles/cmTC_d382c.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d382c.dir/testCCompiler.c.o
+/usr/bin/gcc-7    -o CMakeFiles/cmTC_d382c.dir/testCCompiler.c.o   -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_d382c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d382c.dir/link.txt --verbose=1
+/usr/bin/gcc-7      CMakeFiles/cmTC_d382c.dir/testCCompiler.c.o  -o cmTC_d382c 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f05bc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f05bc.dir/build.make CMakeFiles/cmTC_f05bc.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f05bc.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc-7    -o CMakeFiles/cmTC_f05bc.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_f05bc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f05bc.dir/link.txt --verbose=1
+/usr/bin/gcc-7      CMakeFiles/cmTC_f05bc.dir/CMakeCCompilerABI.c.o  -o cmTC_f05bc 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_de151/fast"
+/usr/bin/make -f CMakeFiles/cmTC_de151.dir/build.make CMakeFiles/cmTC_de151.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_de151.dir/testCXXCompiler.cxx.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_de151.dir/testCXXCompiler.cxx.o -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_de151
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_de151.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_de151.dir/testCXXCompiler.cxx.o  -o cmTC_de151 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fa502/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fa502.dir/build.make CMakeFiles/cmTC_fa502.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fa502.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/g++-7     -o CMakeFiles/cmTC_fa502.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_fa502
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa502.dir/link.txt --verbose=1
+/usr/bin/g++-7       CMakeFiles/cmTC_fa502.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_fa502 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b0580/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b0580.dir/build.make CMakeFiles/cmTC_b0580.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b0580.dir/CheckIncludeFile.c.o
+/usr/bin/gcc-7    -o CMakeFiles/cmTC_b0580.dir/CheckIncludeFile.c.o   -c /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_b0580
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b0580.dir/link.txt --verbose=1
+/usr/bin/gcc-7      CMakeFiles/cmTC_b0580.dir/CheckIncludeFile.c.o  -o cmTC_b0580 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9a211/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9a211.dir/build.make CMakeFiles/cmTC_9a211.dir/build
+make[1]: Entering directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9a211.dir/CheckFunctionExists.c.o
+/usr/bin/gcc-7   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_9a211.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_9a211
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9a211.dir/link.txt --verbose=1
+/usr/bin/gcc-7  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_9a211.dir/CheckFunctionExists.c.o  -o cmTC_9a211 -lpthread 
+make[1]: Leaving directory '/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/CMakeTmp'
+
+

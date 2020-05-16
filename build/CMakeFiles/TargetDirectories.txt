@@ -1,0 +1,10 @@
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/CMakeFiles/Main.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Main/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox/CMakeFiles/Box.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_EleBox/CMakeFiles/edit_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Public/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/ubuntuShareFile/code/MyPlatfrom/build/Platform_Public/CMakeFiles/edit_cache.dir

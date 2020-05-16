@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 2.6)
+project(Platform)
+
+find_package (Threads)
+include_directories("${PROJECT_BINARY_DIR}/../Platform_EleBox")
+include_directories("${PROJECT_BINARY_DIR}/../Platform_Public")
+
+# include_directories("${PROJECT_BINARY_DIR}/../Platform_EleBox/Modbus")
+# include_directories("${PROJECT_BINARY_DIR}/../Platform_EleBox/ElectricityBox")
+
+
+#add the binary tree to the search path for include files
+#so that we will find MotionConfig.h
+include_directories(
+    ${CMAKE_CURRENT_SOURCE_DIR}
+    ${CMAKE_CURRENT_BINARY_DIR})
+
+#add the executable
+add_executable(Main main.cpp MainForm.cpp )
+target_link_libraries(Main Box ${CMAKE_THREAD_LIBS_INIT})

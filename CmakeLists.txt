@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.6)
+
+
+add_subdirectory(Platform_Main)
+add_subdirectory(Platform_EleBox)
+add_subdirectory(Platform_Public)

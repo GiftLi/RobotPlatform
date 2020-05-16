@@ -1,0 +1,21 @@
+#
+#HansRobot FSM library
+#
+
+
+cmake_minimum_required(VERSION 3.0.0)
+project(HR_FSM VERSION 0.1.0)
+
+#MESSAGE(STATUS "HR_FSM binary directory " ${EXECUTABLE_OUTPUT_PATH})
+#MESSAGE(STATUS "HR_FSM library directory " ${LIBRARY_OUTPUT_PATH})
+#MESSAGE(STATUS "HR_FSM source directory " ${PROJECT_SOURCE_DIR})
+
+SET(HR_FSM_INC ${EXECUTABLE_OUTPUT_PATH}/../../HR_PubLib/inc ${PROJECT_SOURCE_DIR}/../../HR_ElectricBox ${PROJECT_SOURCE_DIR}/../HR_RobotAgent ${PROJECT_SOURCE_DIR}/../../HR_inc)
+INCLUDE_DIRECTORIES(${HR_FSM_INC})
+
+LINK_DIRECTORIES(${LIBRARY_OUTPUT_PATH})
+
+SET(HR_FSM_SRC HR_FSM.cpp HRStatus.cpp HRStatus_action.cpp HRStatus_guard.cpp stateMachine.cpp)
+ADD_LIBRARY(HR_FSM SHARED ${HR_FSM_SRC})
+
+TARGET_LINK_LIBRARIES(HR_FSM HR_RobotAgent)
